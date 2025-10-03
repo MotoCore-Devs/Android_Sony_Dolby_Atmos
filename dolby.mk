@@ -103,14 +103,8 @@ PRODUCT_PACKAGES += \
 
 # Motorola bloatwares
 PRODUCT_PACKAGES += \
-    MotoSignatureApp \
     MotoDolbyDax3 \
-    MotorolaSettingsProvider \
     daxService \
-    com.motorola.frameworks.core.addon \
-    com.motorola.motosignature \
-    moto-checkin \
-    moto-settings \
     moto \
 
 # Dolby Permissions
